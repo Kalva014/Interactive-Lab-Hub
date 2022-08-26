@@ -73,8 +73,6 @@ John Doe is a student. Whenever he studies his friends come to talk to him which
 \*\***Include pictures of your storyboards here**\*\*
 ![IMG_9528](https://user-images.githubusercontent.com/46539140/186987282-c11bc702-f31b-4ea7-bc01-146b1905f7e0.jpg)
 
-Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
-
 \*\***Summarize feedback you got here.**\*\*
 - The student intuitively should put the device in a location that can be seen
 - You have to add a feature to calibrate how long it'll for breaks and studying
@@ -85,8 +83,10 @@ Present your ideas to the other people in your breakout room (or in small groups
 Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+Putting up the device was harder than it seemed so had to figure out a way to prop up the device. Just the color changing did not capture the user's attention very well.
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+Maybe add noise or some sound indicator to capture user attention.
 
 
 ## Part C. Prototype the device
@@ -100,7 +100,7 @@ We invented this tool for this lab!
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-
+The tool was very interesting as it could be applied to many smart led and home systems. I believe there are many applications for it.
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -119,8 +119,10 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+![IMG_9529](https://user-images.githubusercontent.com/46539140/186989149-49823b67-c172-4205-b1ad-7aa54e3b6e40.jpg)
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+Inspired by traffic lights, I decided to make the device into a box with a cone on top to direct the light to the student studying for better capture.
 
 
 ## Part F. Record
@@ -128,8 +130,7 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Take a video of your prototyped interaction.**\*\*
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
-
+Yusef Iskandar
 
 
 # Staging Interaction, Part 2 
