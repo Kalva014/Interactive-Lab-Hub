@@ -106,7 +106,7 @@ The tool was very interesting as it could be applied to many smart led and home 
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
-https://user-images.githubusercontent.com/46539140/186991762-4d7ebbbb-a25c-4ba1-b24e-2f51b9c70dfa.mov
+https://drive.google.com/file/d/1tIpXAUMsF-N8TfqkD8n36I5e7Y4kN7Mn/view?usp=sharing 
 
 
 
@@ -133,7 +133,7 @@ Inspired by traffic lights, I decided to make the device into a box with a cone 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
-https://user-images.githubusercontent.com/46539140/186991528-54ce87b8-c2e8-426a-8b30-48d3b3280bfc.mov
+https://drive.google.com/file/d/1r70vR5y90sMg8CNoZQf-ja_Z_u6tKYnc/view?usp=sharing
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Yusef Iskandar
