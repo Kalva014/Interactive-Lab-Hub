@@ -59,26 +59,26 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 To stage an interaction with your interactive device, think about:
 
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
+_Setting:_ The interaction happens at a study table.
 
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
+_Players:_ A group of students
 
-_Activity:_ What is happening between the actors?
+_Activity:_ What is happening between the students is they are taking a break having a conversation. 
 
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
+_Goals:_ What are the goals of each player? The goals of the students is to start studying after taking a break or stop studying and take a break depending on the color of the light. 
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
-
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
+John Doe is a student. Whenever he studies his friends come to talk to him which makes him take a very long and unnecessary break. However taking these long breaks frustrates John as it affects his grades. Therefore he uses the study break indicator. The device shows the color green indicating John to go study. After a specific set time, the device will turn red indicating john to take a break. By repeating this, John was able to improve his grades by taking the appropriate amount of time to take a break and study.
 
 \*\***Include pictures of your storyboards here**\*\*
+![IMG_9528](https://user-images.githubusercontent.com/46539140/186987282-c11bc702-f31b-4ea7-bc01-146b1905f7e0.jpg)
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
-
+- The student intuitively should put the device in a location that can be seen
+- You have to add a feature to calibrate how long it'll for breaks and studying
+- Try to have the color blink because if it just turns red or green then the user will get used to the color and ignore it
 
 ## Part B. Act out the Interaction
 
