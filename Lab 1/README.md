@@ -150,6 +150,8 @@ You will be assigned three partners from another group. Go to their github pages
 
 \*\***Summarize feedback from your partners here.**\*\*
 Calvin Tirrell: Paper cutout on phone could be more cleanly cut vs being torn/ripped out. Otherwise, the storyline and video were easy to understand and a good use of the interactive device concept.
+Keyur Shah: Add some noise and a snooze option if the user is close to finishing their assignment.
+Yunus Ansari: Thinks it could be improved in design/aesthetics. Nevertheless the idea can be very useful
 
 ## Make it your own
 
