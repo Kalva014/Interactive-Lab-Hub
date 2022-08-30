@@ -122,8 +122,6 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Show the follow-up work here.**\*\*
 ![IMG_9500](https://user-images.githubusercontent.com/46539140/186991329-1289ece0-530d-46f1-82c6-99b0c9ea63fc.jpg)
-![IMG_9540](https://user-images.githubusercontent.com/46539140/187345613-7739f455-d5d5-4612-9c25-00094c8a2043.png)
-
 
 
 ## Part E. Costume the device
@@ -134,6 +132,8 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your devices might look like here.**\*\*
 ![IMG_9529](https://user-images.githubusercontent.com/46539140/186989149-49823b67-c172-4205-b1ad-7aa54e3b6e40.jpg)
+![IMG_9540](https://user-images.githubusercontent.com/46539140/187345683-a6b04d0e-b82f-42ec-beb0-1c4d47a5ba30.png)
+
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 Inspired by traffic lights, I decided to make the device into a box with a cone on top to direct the light to the student studying for better capture.
