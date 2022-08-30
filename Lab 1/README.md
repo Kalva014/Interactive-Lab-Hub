@@ -75,7 +75,6 @@ John Doe is a student. Whenever he studies his friends come to talk to him which
 ![IMG_9543](https://user-images.githubusercontent.com/46539140/187345407-b5846e81-0436-4007-89d8-51c884ffc44a.png)
 ![IMG_9542](https://user-images.githubusercontent.com/46539140/187345414-1e8eaeb4-5b6f-4c3d-a67c-ea0d7c4bb0e3.png)
 ![IMG_9541](https://user-images.githubusercontent.com/46539140/187345424-943da296-ea35-4f5a-bd86-def65a601fef.png)
-![IMG_9540](https://user-images.githubusercontent.com/46539140/187345427-6010e5e3-d456-4c59-8a36-1ee6e0e9d856.png)
 ![IMG_9539](https://user-images.githubusercontent.com/46539140/187345456-6f824a7e-7b2a-49a5-8deb-5ac66207b15d.png)
 ![IMG_9544](https://user-images.githubusercontent.com/46539140/187345474-26b5bfe7-f1bc-441e-950e-d3f30653afd3.png)
 ![IMG_9545](https://user-images.githubusercontent.com/46539140/187345480-34ca7c61-2251-48df-8d03-36d3e6494fd9.png)
@@ -123,6 +122,7 @@ Now, hange the goal within the same setting, and update the interaction with the
 
 \*\***Show the follow-up work here.**\*\*
 ![IMG_9500](https://user-images.githubusercontent.com/46539140/186991329-1289ece0-530d-46f1-82c6-99b0c9ea63fc.jpg)
+![IMG_9540](https://user-images.githubusercontent.com/46539140/187345613-7739f455-d5d5-4612-9c25-00094c8a2043.png)
 
 
 
