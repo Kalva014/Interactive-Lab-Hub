@@ -170,3 +170,24 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+To stage an interaction with your interactive device, think about:
+
+_Setting:_ The bedroom.
+
+_Players:_ One person.
+
+_Activity:_ What is happening is the user wants to decide what colors would be more aesthetic for their outfit of the day. 
+
+_Goals:_ What are the goals of each player? The goal of the player is to find an aesthetic outfit
+
+\*\***Describe your setting, players, activity and goals here.**\*\*
+John Doe is a fashion student. He loves to dress well, however he has a hard time choosing what outfit to wear since he has a lot of clothes. In result he pulls out his color coordination device to help him decide what colors compliment each other. 
+
+\*\***Include pictures of your storyboards here**\*\*
+![IMG_9563](https://user-images.githubusercontent.com/46539140/187925557-4ec52037-9313-426d-af43-b3ef9c2bb047.png)
+![IMG_9564](https://user-images.githubusercontent.com/46539140/187925607-7b1459dc-7bd9-4e00-a27a-a6848ffb8e54.png)
+![IMG_9565](https://user-images.githubusercontent.com/46539140/187925624-8787251a-f463-41d7-8937-6e64d31567fd.png)
+![IMG_9566](https://user-images.githubusercontent.com/46539140/187925701-acda4b72-4798-414b-b4e2-8bd2e79fc7c6.png)
+![IMG_9567](https://user-images.githubusercontent.com/46539140/187925706-77cc1048-cefe-46d8-a919-6404ed46c10f.png)
+![IMG_9568](https://user-images.githubusercontent.com/46539140/187925737-c0dfedca-f4c1-437e-82b8-d8ad84a37cb8.png)
+![IMG_9569](https://user-images.githubusercontent.com/46539140/187925756-23759a70-a78e-49c3-80fe-dd5e65a29a7f.png)
