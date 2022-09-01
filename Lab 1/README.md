@@ -191,3 +191,33 @@ John Doe is a fashion student. He loves to dress well, however he has a hard tim
 ![IMG_9567](https://user-images.githubusercontent.com/46539140/187925706-77cc1048-cefe-46d8-a919-6404ed46c10f.png)
 ![IMG_9568](https://user-images.githubusercontent.com/46539140/187925737-c0dfedca-f4c1-437e-82b8-d8ad84a37cb8.png)
 ![IMG_9569](https://user-images.githubusercontent.com/46539140/187925756-23759a70-a78e-49c3-80fe-dd5e65a29a7f.png)
+
+\*\***Summarize feedback you got here.**\*\*
+
+## Part B. Act out the Interaction
+
+Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
+
+\*\***Are there things that seemed better on paper than acted out?**\*\*
+There needs to be a larger palette of colors to choose from.
+
+\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+There could be multiple variations and shades of the colors for better fitting. Also can notify the user using vibrations for when the color of the day is.
+
+
+## Part C. Prototype the device
+
+
+## Part D. Wizard the device
+
+## Part E. Costume the device
+\*\***Include sketches of what your devices might look like here.**\*\*![IMG_9571 HEIC](https://user-images.githubusercontent.com/46539140/187927663-c2c5bdb9-f374-4e2d-9202-45bca0d6a8b8.png)![IMG_9570 HEIC](https://user-images.githubusercontent.com/46539140/187927683-cc4243c9-3630-402b-92aa-06f719fcbb8b.png)
+![IMG_9572 HEIC](https://user-images.githubusercontent.com/46539140/187927688-890e6568-ccbb-4f18-92cc-2f708fa27eb5.png)
+
+
+\*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
+The opportunity to be able to see yourself with the color on could change how you perceive the color with your outfit.
+
+## Part F. Record
+\*\***Take a video of your prototyped interaction.**\*\*
+\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
