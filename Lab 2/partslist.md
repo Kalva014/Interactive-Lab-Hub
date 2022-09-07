@@ -43,3 +43,4 @@
 
 ## Missing Parts here
 \*\*\***List down parts you did not get from the kit here**\*\*\*
+HD Webcam
