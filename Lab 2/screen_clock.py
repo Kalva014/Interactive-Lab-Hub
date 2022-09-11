@@ -2,6 +2,7 @@ import time
 import subprocess
 import digitalio
 import board
+import datetime
 from PIL import Image, ImageDraw, ImageFont
 import adafruit_rgb_display.st7789 as st7789
 
@@ -60,11 +61,32 @@ backlight = digitalio.DigitalInOut(board.D22)
 backlight.switch_to_output()
 backlight.value = True
 
+# BUTTON SETUP
+buttonA = digitalio.DigitalInOut(board.D23)
+buttonB = digitalio.DigitalInOut(board.D24)
+buttonA.switch_to_input()
+buttonB.switch_to_input()
+t = 4500 #1 hour and 15 minutes converted into seconds left
+
 while True:
     # Draw a black filled box to clear the image.
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
+    y = -2# Padding
+    if not buttonA.value and not buttonB.value:
+        draw.text((x, y), "Press top button for \ntime until Graduation! \nPress bottom\n button for time\n until class!", font=ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 24), fill="#FFFFFF")
+    if not buttonA.value and buttonB.value:
+        #time.sleep(0.1)
+        time_until_date = datetime.datetime(2023, 5, 27) - datetime.datetime.now()
+        total_seconds = (time_until_date).total_seconds()
+        draw.text((x, y), "Time Left(seconds):\n" + str(total_seconds), font=ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 24), fill="#FFFFFF")
+    if not buttonB.value and buttonA.value:
+        mins, secs = divmod(t, 60)
+        timer = '{:02d}:{:02d}'.format(mins, secs)
+        time.sleep(1)
+        t -= 1
+        draw.text((x, y), "Class Time Left:\n" + timer, font=ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 24), fill="#FFFFFF")
 
     # Display image.
     disp.image(image, rotation)
