@@ -242,6 +242,8 @@ https://drive.google.com/file/d/17ILnzluVTVA78p5k1ZUS_gMYVNpacBAc/view?usp=shari
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+![IMG_9656](https://user-images.githubusercontent.com/46539140/189544410-20e077e9-c9c8-4f56-ae16-f82ba01742bd.png)
+![IMG_9657](https://user-images.githubusercontent.com/46539140/189544554-4f528589-0afd-4ff3-8709-6008ffefbb97.png)
 
 
 # Prep for Part 2
