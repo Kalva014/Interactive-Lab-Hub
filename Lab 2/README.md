@@ -253,6 +253,8 @@ https://drive.google.com/file/d/17ILnzluVTVA78p5k1ZUS_gMYVNpacBAc/view?usp=shari
   
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
+Rahul Jain: Change the seconds to days and fix the text alignment.
+Yusef Iskandar: Split the user interface with a line and each side press top and bottom. Use a new font to grab attention.
 
 # Lab 2 Part 2
 
