@@ -1,4 +1,5 @@
 # Interactive Prototyping: The Clock of Pi
+**NAMES OF COLLABORATORS HERE**
 
 Does it feel like time is moving strangely during this semester?
 
@@ -252,15 +253,20 @@ https://drive.google.com/file/d/17ILnzluVTVA78p5k1ZUS_gMYVNpacBAc/view?usp=shari
   
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
+Rahul Jain: Change the seconds to days and fix the text alignment.
+Yusef Iskandar: Split the user interface with a line and each side press top and bottom. Use a new font to grab attention.
 
 # Lab 2 Part 2
+Idea: A motivational planner where the student is able to gain inspiration whenever they feel burnt out or feel as if school is becoming overwhelming. Additionally the device acts as a planner allowing the user to stay on top of their daily tasks. This is very important for maintaining mental health as it has became a very important issue to address these past few years.
 
-Pull Interactive Lab Hub updates to your repo.
+Setting: The interaction happens during school when the student loses focus/motivation.
 
-Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
+Players: A student
 
-As always, make sure you document contributions and ideas from others explicitly in your writeup.
+Activity: The student views his motivational planner when he needs encouragement.
 
-You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
+Goals: The goal of the student is to stay motivated while maintaining their mental health by viewing the motivational planner.
 
+**Describe your setting, players, activity and goals here.** John Doe is a student. After long weeks of working on school work he feels exhausted and feels as if school will never end. However by looking at his motivational planning device, he is able to get back to his work. The device provides him information on accurately measuring and displaying how long it will take for him to graduate at Cornell, when his class will end that day, as well as his weekly plan of tasks.
 
+https://drive.google.com/file/d/1u4rYaEsxtjp9c9rFaUuMoX5gEqAOuvWH/view?usp=sharing
