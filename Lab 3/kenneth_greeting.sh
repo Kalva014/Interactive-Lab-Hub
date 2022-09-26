@@ -1,0 +1,1 @@
+espeak -ven+f2 -k5 -s150 --stdout  "Hi Kenneth Alvarez, my name is pi the robot" | aplay
