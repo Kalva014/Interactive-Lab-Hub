@@ -109,10 +109,14 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 \*\***Post your storyboard and diagram here.**\*\*
 ![IMG_9743](https://user-images.githubusercontent.com/46539140/192180531-e83c6e0e-17e6-47ad-a42f-fcc50f2b7953.jpg)
 
-
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+Different: 
+- "I am hungry, could I please have have food?"
+- "I need my diaper to be changed!"
+- "I am thirsty, could you get me milk?"
+- "I am bored, could you please get me a toy?"
 
 
 ### Acting out the dialogue
