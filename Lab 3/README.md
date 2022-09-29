@@ -146,7 +146,11 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 ## Prep for Part 2
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
+Some concrete things that could be improved upon is the misunderstanding of using just babies. The product will be catered towards people who cannot speak coherent sentences. To clear up misunderstandings the young child will not be interacting with the device but rather with themselves. Additionally the device needs to anticipate various situations with hospitals and daycares rather than in home situations. 
+
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
+To clear up interactons aside from speech would be body gestures such as rubbing the stomach to indicate when the young child is hungry. Another example could be if the baby waves its hands then it could be inferred that the baby wants a toy.
+
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
 ## Prototype your system
