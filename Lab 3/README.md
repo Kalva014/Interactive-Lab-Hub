@@ -161,6 +161,7 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+The camera tracks the baby(or non-speaking person) using computer vision and depending on the gestures of the baby, will cause the speaker to output what the baby needs. The speaker output will start the interaction with the parent/guardian.
 
 *Include videos or screencaptures of both the system and the controller.*
 
