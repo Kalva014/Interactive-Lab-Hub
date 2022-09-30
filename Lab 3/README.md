@@ -152,6 +152,7 @@ Some concrete things that could be improved upon is the misunderstanding of usin
 To clear up interactons aside from speech would be body gestures such as rubbing the stomach to indicate when the young child is hungry. Another example could be if the baby waves its hands then it could be inferred that the baby wants a toy.
 
 3. Make a new storyboard, diagram and/or script based on these reflections.
+![IMG_9762](https://user-images.githubusercontent.com/46539140/193346200-80756b23-03c1-42d4-a815-ef6f89a7cba0.jpg)
 
 ## Prototype your system
 
@@ -166,6 +167,7 @@ The system should:
 The camera tracks the baby(or non-speaking person) using computer vision and depending on the gestures of the baby, will cause the speaker to output what the baby needs. The speaker output will start the interaction with the parent/guardian.
 
 *Include videos or screencaptures of both the system and the controller.*
+
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
