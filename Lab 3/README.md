@@ -167,7 +167,7 @@ The system should:
 The camera tracks the baby(or non-speaking person) using computer vision and depending on the gestures of the baby, will cause the speaker to output dialogue based on the baby's needs. The speaker's dialogue will start the interaction with the parent/guardian. The parent/gaurdian will ask for recommendations and based off that the speaker will output recommendations for the child. Also there will be a proximity sensor that will detect when the user is nearby for the interaction to start.
 
 *Include videos or screencaptures of both the system and the controller.*
-Since I was struggling to configure opencv with the raspberry pi I had to run it on my local machine. 
+https://drive.google.com/drive/folders/1h9j_nt9_DLiCTkjFLZp26B8zcnU2nsfg?usp=sharing
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
