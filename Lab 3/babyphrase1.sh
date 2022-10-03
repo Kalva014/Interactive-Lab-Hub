@@ -1,0 +1,1 @@
+espeak -ven+f2 -k5 -s150 --stdout  "I am hungry can you please get me food?" | aplay

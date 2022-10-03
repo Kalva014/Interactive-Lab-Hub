@@ -1,0 +1,1 @@
+espeak -ven+f2 -k5 -s150 --stdout  "Hi I am bored can you please get me a toy?" | aplay

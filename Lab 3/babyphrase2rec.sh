@@ -1,0 +1,1 @@
+espeak -ven+f2 -k5 -s150 --stdout  "Some recommendations are milk or juice. Let me know what you think!" | aplay
