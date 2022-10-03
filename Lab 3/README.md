@@ -146,8 +146,13 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 ## Prep for Part 2
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
+Some concrete things that could be improved upon is the misunderstanding of using just babies. The product will be catered towards people who cannot speak coherent sentences. To clear up misunderstandings the young child will not be interacting with the device but rather with themselves. Additionally the device needs to anticipate various situations with hospitals and daycares rather than in home situations. Lastly to improve upon the interaction, the device will give out recommendations to the parent depending on what the child needs.
+
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
+To clear up interactons aside from speech would be body gestures such as rubbing the stomach to indicate when the young child is hungry. Another example could be if the baby waves its hands then it could be inferred that the baby wants a toy.
+
 3. Make a new storyboard, diagram and/or script based on these reflections.
+![IMG_9762](https://user-images.githubusercontent.com/46539140/193346200-80756b23-03c1-42d4-a815-ef6f89a7cba0.jpg)
 
 ## Prototype your system
 
@@ -158,7 +163,11 @@ The system should:
 
 *Document how the system works*
 
+
+The camera tracks the baby(or non-speaking person) using computer vision and depending on the gestures of the baby, will cause the speaker to output dialogue based on the baby's needs. The speaker's dialogue will start the interaction with the parent/guardian. The parent/gaurdian will ask for recommendations and based off that the speaker will output recommendations for the child. Also there will be a proximity sensor that will detect when the user is nearby for the interaction to start.
+
 *Include videos or screencaptures of both the system and the controller.*
+https://drive.google.com/drive/folders/1h9j_nt9_DLiCTkjFLZp26B8zcnU2nsfg?usp=sharing
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
@@ -167,17 +176,17 @@ Answer the following:
 
 ### What worked well about the system and what didn't?
 \*\**your answer here*\*\*
+The system worked well in the sense that using the camera, the system was able to track the baby's movements. However it didn't do anything other than track the baby's movements when we could classify and track more of the baby's actions. Additionally with the speaker it was not picking up the caretaker's words so it made it difficult to listen and take input of what the caretaker was saying.
 
 ### What worked well about the controller and what didn't?
-
 \*\**your answer here*\*\*
+The controller worked well by being very responsive, which ultimately was dependent on the person wizarding the scenario. The controller could be improved upon in the fact that we could make it more autonomous. So instead of manually hardcoding various lines of dialogue and running each one individually, a machine learning model could be created with the idea that the model will learn and give the best responses to the parents. 
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
-
 \*\**your answer here*\*\*
+I learned that the dialogue can be improved upon when the parent needs recommendations for what to assist the baby with. Additionally instead of just tracking the baby, the system should be able to classify what the baby is doing for a more autonomous version. Examples including classifying if the baby is sleeping or if it is awake and crawling.
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
-
 \*\**your answer here*\*\*
-
+I could use my system to create a dataset of interactions by going through every possible baby/child necessity(e.g. when they are hungry, when they would like to move around, when they want to be comforted, etc.). The dataset will also include a recommendation system the more complex the device and interactions gets. For other sensing modalities that could be captured could be temperature to make sure the baby is not too hot or cold to prevent it from getting sick as well as pressure to make sure the baby is not being suffocated when being swaddled.
