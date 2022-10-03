@@ -164,7 +164,7 @@ The system should:
 *Document how the system works*
 
 
-The camera tracks the baby(or non-speaking person) using computer vision and depending on the gestures of the baby, will cause the speaker to output what the baby needs. The speaker output will start the interaction with the parent/guardian.
+The camera tracks the baby(or non-speaking person) using computer vision and depending on the gestures of the baby, will cause the speaker to output what the baby needs. The speaker output will start the interaction with the parent/guardian. The parent/gaurdian will ask for recommendations and based off that the speaker will output recommendations for the child.
 
 *Include videos or screencaptures of both the system and the controller.*
 
@@ -187,6 +187,5 @@ Answer the following:
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
-
 \*\**your answer here*\*\*
-
+I could use my system to create a dataset of interactions by going through every possible baby/child necessity(e.g. when they are hungry, when they would like to move around, when they want to be comforted, etc.). The dataset will also include a recommendation system the more complex the device and interactions gets. For other sensing modalities that could be captured could be temperature to make sure the baby is not too hot or cold to prevent it from getting sick or pressure to make sure the baby is not being suffocated when being swaddled.
