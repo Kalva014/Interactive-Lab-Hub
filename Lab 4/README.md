@@ -175,11 +175,15 @@ You can go to the [SparkFun GitHub Page](https://github.com/sparkfun/Qwiic_VL53L
 Usually, sensors need to positioned in specific locations or orientations to make them useful for their application. Now that you've tried a bunch of the sensors, pick one that you would like to use, and an application where you use the output of that sensor for an interaction. For example, you can use a distance sensor to measure someone's height if you position it overhead and get them to stand under it.
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
+I will be using the distance sensor for my project.
+![IMG_0129](https://user-images.githubusercontent.com/46539140/195206173-4c50a5d5-7f2e-4c61-9a3e-fbedf58e2f53.jpg)
+![IMG_0130](https://user-images.githubusercontent.com/46539140/195206192-a42afa25-7e4c-48bf-be00-da5964b7eeaf.jpg)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+For the halloween sketch, what would be the optimal display that would give the users a scare? For the automatic door opener, won't I need another mechanism to open the door? For the social distancing enabler, how will I be able to make it a device that is portable? For the automatic doorbell would I need a speaker to notify the home owner? For the speed warning sensor how will I test it? To physically protoype and address these questions I would need a few more sensors/parts to make it viable.
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
-
+I decided to choose the automatic door opener design.
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -220,6 +224,7 @@ Here is an example:
 Think about how you want to present the information about what your sensor is sensing! Design a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
+![IMG_0131](https://user-images.githubusercontent.com/46539140/195206214-19067c07-0dc5-4ab8-af18-8e28b54741fe.jpg)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
