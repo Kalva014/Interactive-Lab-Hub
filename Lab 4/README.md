@@ -226,15 +226,19 @@ Think about how you want to present the information about what your sensor is se
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 ![IMG_0131](https://user-images.githubusercontent.com/46539140/195206214-19067c07-0dc5-4ab8-af18-8e28b54741fe.jpg)
 
-**\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+**\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\*** 
+Most of these sketches generally are the same idea. Is there anyway I can generate different prototypes depending on the door? Aditionally if there were some rain, I don't think cardboard will be able to protect the automatic doorbell design from the outside. I would need a cleaner waterproof design kind of like the company "RING".
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
+I choose design 3.
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+I choose design 3 for the extra button which allows for the user to lock the door when leaving as well as having a simple interface to work with. Additionally it needs to be the size of a "RING" doorbell size so about a 8inx8in.
 
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+![IMG_0133](https://user-images.githubusercontent.com/46539140/195209910-d2597c2c-1acf-4551-8496-418770cf943d.jpg)
 
 
 LAB PART 2
