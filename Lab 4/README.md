@@ -288,15 +288,20 @@ Process of attempting to create the automatic door handle container using Laser 
 ![IMG_0141](https://user-images.githubusercontent.com/46539140/195966627-b3db6ee9-e00c-4c74-95e0-65f882771ba1.jpg)
 ![IMG_0142](https://user-images.githubusercontent.com/46539140/195966628-26011b0d-dd8e-439a-a232-522d8cb01660.jpg)
 ![IMG_0143](https://user-images.githubusercontent.com/46539140/195966629-88fc011f-5626-4551-b4d6-4f1d119773c4.jpg)
+![IMG_0148](https://user-images.githubusercontent.com/46539140/196002903-a1206cc4-d8a2-4fe5-8593-de2452cc3608.jpg)
+![IMG_0149](https://user-images.githubusercontent.com/46539140/196002904-be3796aa-2b88-4b23-b98e-2e60af004ce4.jpg)
 
 Additionally the internals of the device set up looks like this.
 ![IMG_0145_2](https://user-images.githubusercontent.com/46539140/195967148-ed40d8e4-4969-4451-aeb2-c5af56450d83.jpg)
 
 
 * "Works like": shows what the device can do
-After making several adjustments to the idea. I decided that the servo given is not strong enough to move my door handle to automatically open the door when it senses me coming. So the idea adapted to where if the user gets is close enough to the door then the sensor will sense the user's distance and lift up the cover that hides the door handle. When the user presses the button it will cover the handle and lock the door.
+After making several adjustments to the idea. I decided that the servo given is not strong enough to move my door handle to automatically open the door when it senses me coming. So the idea adapted to where if the user gets is close enough to the door then the sensor will sense the user's distance and lift up the cover that hides the door handle. When the user presses the button it will cover the handle and lock the door. However after further testing with users and development I decided that the button was not necessary.
 ![IMG_0146](https://user-images.githubusercontent.com/46539140/195967233-990af438-9169-4258-908f-bae6a0ef0cc2.jpg)
 
 
 * "Acts like": shows how a person would interact with the device
+For the first video, the user approaches the door and the distance sensor measures/senses if the user is within 5 feet of the door. If so the device reveals the door handle using the servo to move the cardboard door handle cover. This essentially unlocks the door unlocker since the servo isn't strong enough to move the handle by itself had to adapt for the user. https://drive.google.com/file/d/1Rrfh5meBc9Lhd8pI42d3hjdHJSVgAPhF/view?usp=sharing 
 
+For the second video as the user exits the 5 feet distance threshold of unlocking the the door, the device's servo moves the cover and hides the door handle. By covering the door handle it acts as an automatic lock for the door which is seen on the LCD display.
+https://drive.google.com/file/d/1QLtL3LKxo9CT9J3U1OaLZ0pmeIKyarZG/view?usp=sharing
