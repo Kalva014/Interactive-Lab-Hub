@@ -175,11 +175,15 @@ You can go to the [SparkFun GitHub Page](https://github.com/sparkfun/Qwiic_VL53L
 Usually, sensors need to positioned in specific locations or orientations to make them useful for their application. Now that you've tried a bunch of the sensors, pick one that you would like to use, and an application where you use the output of that sensor for an interaction. For example, you can use a distance sensor to measure someone's height if you position it overhead and get them to stand under it.
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
+I will be using the distance sensor for my project.
+![IMG_0129](https://user-images.githubusercontent.com/46539140/195206173-4c50a5d5-7f2e-4c61-9a3e-fbedf58e2f53.jpg)
+![IMG_0130](https://user-images.githubusercontent.com/46539140/195206192-a42afa25-7e4c-48bf-be00-da5964b7eeaf.jpg)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+For the halloween sketch, what would be the optimal display that would give the users a scare? For the automatic door opener, won't I need another mechanism to open the door? For the social distancing enabler, how will I be able to make it a device that is portable? For the automatic doorbell would I need a speaker to notify the home owner? For the speed warning sensor how will I test it? To physically protoype and address these questions I would need a few more sensors/parts to make it viable.
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
-
+I decided to choose the automatic door opener design.
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -220,16 +224,21 @@ Here is an example:
 Think about how you want to present the information about what your sensor is sensing! Design a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
+![IMG_0131](https://user-images.githubusercontent.com/46539140/195206214-19067c07-0dc5-4ab8-af18-8e28b54741fe.jpg)
 
-**\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+**\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\*** 
+Most of these sketches generally are the same idea. Is there anyway I can generate different prototypes depending on the door? Aditionally if there were some rain, I don't think cardboard will be able to protect the automatic doorbell design from the outside. I would need a cleaner waterproof design kind of like the company "RING".
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
+I choose design 3.
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+I choose design 3 for the extra button which allows for the user to lock the door when leaving as well as having a simple interface to work with. Additionally it needs to be the size of a "RING" doorbell size so about a 8inx8in.
 
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+![IMG_0133](https://user-images.githubusercontent.com/46539140/195209910-d2597c2c-1acf-4551-8496-418770cf943d.jpg)
 
 
 LAB PART 2
@@ -272,6 +281,27 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
-* "Works like": shows what the device can do
-* "Acts like": shows how a person would interact with the device
 
+Process of attempting to create the automatic door handle container using Laser Machining to create the Prototype:
+![IMG_0139](https://user-images.githubusercontent.com/46539140/195966624-19a9af19-8d15-4d9a-b423-c62bd5a7d3f1.jpg)
+![IMG_0140](https://user-images.githubusercontent.com/46539140/195966626-d26f783f-c2fc-4c80-942a-59afc1f8c407.jpg)
+![IMG_0141](https://user-images.githubusercontent.com/46539140/195966627-b3db6ee9-e00c-4c74-95e0-65f882771ba1.jpg)
+![IMG_0142](https://user-images.githubusercontent.com/46539140/195966628-26011b0d-dd8e-439a-a232-522d8cb01660.jpg)
+![IMG_0143](https://user-images.githubusercontent.com/46539140/195966629-88fc011f-5626-4551-b4d6-4f1d119773c4.jpg)
+![IMG_0148](https://user-images.githubusercontent.com/46539140/196002903-a1206cc4-d8a2-4fe5-8593-de2452cc3608.jpg)
+![IMG_0149](https://user-images.githubusercontent.com/46539140/196002904-be3796aa-2b88-4b23-b98e-2e60af004ce4.jpg)
+
+Additionally the internals of the device set up looks like this.
+![IMG_0145_2](https://user-images.githubusercontent.com/46539140/195967148-ed40d8e4-4969-4451-aeb2-c5af56450d83.jpg)
+
+
+* "Works like": shows what the device can do
+After making several adjustments to the idea. I decided that the servo given is not strong enough to move my door handle to automatically open the door when it senses me coming. So the idea adapted to where if the user gets is close enough to the door then the sensor will sense the user's distance and lift up the cover that hides the door handle. When the user presses the button it will cover the handle and lock the door. However after further testing with users and development I decided that the button was not necessary.
+![IMG_0146](https://user-images.githubusercontent.com/46539140/195967233-990af438-9169-4258-908f-bae6a0ef0cc2.jpg)
+
+
+* "Acts like": shows how a person would interact with the device
+For the first video, the user approaches the door and the distance sensor measures/senses if the user is within 5 feet of the door. If so the device reveals the door handle using the servo to move the cardboard door handle cover. This essentially unlocks the door unlocker since the servo isn't strong enough to move the handle by itself had to adapt for the user. https://drive.google.com/file/d/1Rrfh5meBc9Lhd8pI42d3hjdHJSVgAPhF/view?usp=sharing 
+
+For the second video as the user exits the 5 feet distance threshold of unlocking the the door, the device's servo moves the cover and hides the door handle. By covering the door handle it acts as an automatic lock for the door which is seen on the LCD display.
+https://drive.google.com/file/d/1QLtL3LKxo9CT9J3U1OaLZ0pmeIKyarZG/view?usp=sharing
