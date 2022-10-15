@@ -282,15 +282,20 @@ We encourage you to try using these controls, **while** paying particular attent
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 
-Several Failed Iterations of Laser Machining the Prototype:
+Process of attempting to create the automatic door handle container using Laser Machining to create the Prototype:
 ![IMG_0139](https://user-images.githubusercontent.com/46539140/195966624-19a9af19-8d15-4d9a-b423-c62bd5a7d3f1.jpg)
 ![IMG_0140](https://user-images.githubusercontent.com/46539140/195966626-d26f783f-c2fc-4c80-942a-59afc1f8c407.jpg)
 ![IMG_0141](https://user-images.githubusercontent.com/46539140/195966627-b3db6ee9-e00c-4c74-95e0-65f882771ba1.jpg)
 ![IMG_0142](https://user-images.githubusercontent.com/46539140/195966628-26011b0d-dd8e-439a-a232-522d8cb01660.jpg)
 ![IMG_0143](https://user-images.githubusercontent.com/46539140/195966629-88fc011f-5626-4551-b4d6-4f1d119773c4.jpg)
 
+Additionally the internals of the device set up looks like this.
+![IMG_0145_2](https://user-images.githubusercontent.com/46539140/195967148-ed40d8e4-4969-4451-aeb2-c5af56450d83.jpg)
+
 
 * "Works like": shows what the device can do
+After making several adjustments to the idea. I decided that the servo given is not strong enough to move my door handle to automatically open the door when it senses me coming. So the idea adapted to where if the user gets is close enough to the door then the sensor will sense the user's distance and lift up the cover that hides the door handle. When the user presses the button it will cover the handle and lock the door.
+![IMG_0146](https://user-images.githubusercontent.com/46539140/195967233-990af438-9169-4258-908f-bae6a0ef0cc2.jpg)
 
 
 * "Acts like": shows how a person would interact with the device
