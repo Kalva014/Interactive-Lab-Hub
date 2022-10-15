@@ -281,6 +281,17 @@ We encourage you to try using these controls, **while** paying particular attent
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+
+Several Failed Iterations of Laser Machining the Prototype:
+![IMG_0139](https://user-images.githubusercontent.com/46539140/195966624-19a9af19-8d15-4d9a-b423-c62bd5a7d3f1.jpg)
+![IMG_0140](https://user-images.githubusercontent.com/46539140/195966626-d26f783f-c2fc-4c80-942a-59afc1f8c407.jpg)
+![IMG_0141](https://user-images.githubusercontent.com/46539140/195966627-b3db6ee9-e00c-4c74-95e0-65f882771ba1.jpg)
+![IMG_0142](https://user-images.githubusercontent.com/46539140/195966628-26011b0d-dd8e-439a-a232-522d8cb01660.jpg)
+![IMG_0143](https://user-images.githubusercontent.com/46539140/195966629-88fc011f-5626-4551-b4d6-4f1d119773c4.jpg)
+
+
 * "Works like": shows what the device can do
+
+
 * "Acts like": shows how a person would interact with the device
 
