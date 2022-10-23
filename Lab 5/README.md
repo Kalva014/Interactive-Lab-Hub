@@ -101,12 +101,25 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 ```
 
 **\*\*\*Try each of the following four examples in the `openCV-examples`, include screenshots of your use and write about one design for each example that might work based on the individual benefits to each algorithm.\*\*\***
+# Object Detection
 <img width="922" alt="Screen Shot 2022-10-23 at 5 09 45 PM" src="https://user-images.githubusercontent.com/46539140/197419512-8e274a4f-f4b1-4fd8-b058-64aceb015a6c.png">
+* Potential Design: Food Classification System
+Classify what type of category the food is a part of. Examples include being a vegetable or meat.
 
-
+# Optical Flow Detection
 <img width="915" alt="Screen Shot 2022-10-23 at 5 08 12 PM" src="https://user-images.githubusercontent.com/46539140/197419517-55512b90-2c3f-4567-84b7-f92943ec75ef.png">
+* Potential Design: Sports movement system.
+By using the optical flow algorithm, we can detect patterns in an athlete's movement which can help for coaching younger players users how to do a specific technique.
+
+# Face Detection
 <img width="925" alt="Screen Shot 2022-10-23 at 5 00 12 PM" src="https://user-images.githubusercontent.com/46539140/197419520-2daa2beb-c10d-4607-8acd-7fcafeb4e842.png">
+* Potential Design: Skin Care system.
+By scanning a user's face, the face detection can help diagnose what skin type they have to help with acne or blackheads. 
+
+# Contours Detection
 <img width="911" alt="Screen Shot 2022-10-23 at 4 58 06 PM" src="https://user-images.githubusercontent.com/46539140/197419527-8fe758bb-c2f9-4b51-a9a8-ec51c5106260.png">
+* Potential Design: Lost object tracking system.
+By being able to classify and detect the contours of specific objects, this algorithm can be applied to situations where someone could feed images to the algorithm of an object they lost in their room which can help them find it through the detection algorithm.
 
 
 #### Filtering, FFTs, and Time Series data. 
