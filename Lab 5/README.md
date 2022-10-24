@@ -282,9 +282,10 @@ During the lecture, we mentioned questions to help characterize a material:
 * What are other properties/behaviors of X?
 * How does X feel?
 
-The sports movement detection model can be used for spectators, athletes, or coaches when watching sports. I noticed that a good environment is one that is well lit with not too many objects lying around in the background. The goal is to reduce as much background noise for classification. A bad environment is one in which the lighting is bad/dark and there are a lot of movement from other objects in the background. The model breaks when the athlete is not moving or if the athlete is moving too fast. By breaking it means that the classification is completely incorrect. The other behavior is that the model displays the accuracy it believes in classifying the movement. The athletes are quite skeptical with how accurate their movements are when seeing the model interpret their movement. However most of the time the movement classification works most of the time.
+The sports movement detection model can be used for spectators, athletes, or coaches when watching sports. I noticed that a good environment is one that is well lit with not too many objects lying around in the background. The goal is to reduce as much background noise for classification. A bad environment is one in which the lighting is bad/dark and there are a lot of movement from other objects in the background. The model breaks when the athlete is not moving or if the athlete is moving too fast. By breaking it means that the classification is completely incorrect. Additionally since there aren't enough images fed into the model, the classification only works when the user is using a specific arm. The other behavior is that the model displays the accuracy it believes in classifying the movement. The athletes are quite skeptical with how accurate their movements are when seeing the model interpret their movement. However the movement classification works most of the time.
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
+https://drive.google.com/file/d/1r44J_Exx04vpWW-gbbnCURVcHC_TOJV0/view?usp=sharing
 
 ### Part 2.
 
