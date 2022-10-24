@@ -159,6 +159,11 @@ For technical references:
 
 
 **\*\*\*Include links to your code here, and put the code for these in your repo--they will come in handy later.\*\*\***
+1. For the rms volume the minimum was 80 and the maximum was 400.<img width="218" alt="Screen Shot 2022-10-24 at 11 47 34 AM" src="https://user-images.githubusercontent.com/46539140/197569204-b0df3999-35d7-4009-b93c-e5c9af499d0e.png"><img width="226" alt="Screen Shot 2022-10-24 at 11 48 12 AM" src="https://user-images.githubusercontent.com/46539140/197569323-0cb8ceae-b432-4c4b-9144-6d76d86935a9.png">
+
+2. 
+
+3. 
 
 ### (Optional Reading) Introducing Additional Concepts
 The following sections ([MediaPipe](#mediapipe) and [Teachable Machines](#teachable-machines)) are included for your own optional learning. **The associated scripts will not work on Fall 2022's Pi Image, so you can move onto part B.** However, you are welcome to try it on your personal computer. If this functionality is desirable for your lab or final project, we can help you get a different image running the last OS and version of python to make the following code work.
