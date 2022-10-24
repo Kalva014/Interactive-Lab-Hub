@@ -258,16 +258,16 @@ https://drive.google.com/file/d/1nhWQ5PHDr9TikG0c43KqKXLiOrN_8c49/view?usp=shari
 
 Now flight test your interactive prototype and **note down your observations**:
 For example:
-1. When does it what it is supposed to do?
-1. When does it fail?
-1. When it fails, why does it fail?
-1. Based on the behavior you have seen, what other scenarios could cause problems?
+1. When does it what it is supposed to do? The sports movement detection model detects specific movements with no other objects in the background. The reason for no other objects in the background is to limit noise when classifying movemenets.
+3. When does it fail? The object fails when trying to follow multiple movements as it has a hard time of detecting whose movements to track. 
+4. When it fails, why does it fail? Additionally when the model fails it also fails due to not having a stationary class(when the user isn't doing anything). This causes the model to use one of the other classifications which is wrong.
+5. Based on the behavior you have seen, what other scenarios could cause problems? Other scenarios that could cause problems would be dependent on the lighting and how fast the user is moving such that the camera does not have time to classify the movement since the movement is usually fast paced.
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
-1. Are they aware of the uncertainties in the system?
-1. How bad would they be impacted by a miss classification?
-1. How could change your interactive system to address this?
-1. Are there optimizations you can try to do on your sense-making algorithm.
+1. Are they aware of the uncertainties in the system? The users will be aware of the uncertainties if they see incorrect classification in the initial use. The users would have to test the same movement several times in order to get the correct angles and poses for the model to behave properly.
+1. How bad would they be impacted by a miss classification? A misclassification could be bad if the model was being used for a sports competition that judges based off the types of movements being done(e.g. skateboarding competitions which scores based off what tricks the skateboarder does).
+1. How could change your interactive system to address this? To change the interactive system would be to add more movement classes for the model to capture better analysis of the athletes.
+1. Are there optimizations you can try to do on your sense-making algorithm. Additionally an optimization would be to show the accuracy of the movement and adding a larger dataset of labeled images.
 
 ### Part D
 ### Characterize your own Observant system
@@ -281,6 +281,8 @@ During the lecture, we mentioned questions to help characterize a material:
 * When it breaks how will X break?
 * What are other properties/behaviors of X?
 * How does X feel?
+
+The sports movement detection model can be used for spectators, athletes, or coaches when watching sports. I noticed that a good environment is one that is well lit with not too many objects lying around in the background. The goal is to reduce as much background noise for classification. A bad environment is one in which the lighting is bad/dark and there are a lot of movement from other objects in the background. The model breaks when the athlete is not moving or if the athlete is moving too fast. By breaking it means that the classification is completely incorrect. The other behavior is that the model displays the accuracy it believes in classifying the movement. The athletes are quite skeptical with how accurate their movements are when seeing the model interpret their movement. However most of the time the movement classification works most of the time.
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
 
