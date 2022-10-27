@@ -251,6 +251,7 @@ This might take a while to get fully installed. After installation, connect your
 * This can be as simple as the boat detector showen in a previous lecture from Nikolas Matelaro.
 * Try out different interaction outputs and inputs.
 * Fill out the ``Contextual Interaction Design Tool`` sheet.[Found here.](ThinkingThroughContextandInteraction.png)
+![IMG_0243](https://user-images.githubusercontent.com/46539140/198294777-1713947c-7e47-4300-9f7c-1c2cbde2b8a8.jpg)
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
 I tried the pose detection model using the Google's teachable machines. I specifically built upon my idea of a sports movement detection interaction that tracks and classifies the user's movements depending on the sport. I built the teachable machines model to recognize two types of important movements in basketball. The movements include shooting a basketball and directing other players to move by pointing.  The user can move themselves in front of the camera and if the model recoginzes the specific pose based off the sample images it took, it will classify whether the user shooting or directing on the screen.
