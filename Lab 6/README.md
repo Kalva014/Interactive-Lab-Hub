@@ -95,6 +95,13 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
+![IMG_0314](https://user-images.githubusercontent.com/46539140/200198994-518823cd-4937-4e17-a33a-4dd5cf3eb961.jpg)
+![IMG_0315](https://user-images.githubusercontent.com/46539140/200199000-7028fad4-ba3c-4acc-a96d-f6a6dc33fd5b.jpg)
+1) Participation encourager is a device that teachers will use to encourage all the students in a class to answer questions by pressing buttons very similar to kahoot. So users will press a button and the average amount of students who choose that answer will be sent to the teacher. This allows for better participation for students are shy to raise their hands.
+2) Automatic Dog Geeder is a device that will allow pet owners to feed their pets remotely with their Pi device. This allows for pet owners to make sure their pet is taken care of 24/7.
+3) Home Lighter is a device that will detect when the homeowner is close to their house and will light up the LEDs in their house. This allows for users to feel a lot more comfortable entering their home compared to a pitch black house.
+4) Smart speaker is a device that allows users streaming music from Spotify to change or pause music from far away using a capacitive sensor. This is great for parties as many people have access to the communication so anyone can change the music if they do not like it.
+5) Portable piano creates the effect of a piano that allows for pianos to be more portable since it is hard to transport instruments.
 
 ### Part C
 ### Streaming a Sensor
