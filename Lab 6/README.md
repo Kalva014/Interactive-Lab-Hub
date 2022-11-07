@@ -177,9 +177,10 @@ I decided to continue with the Participation Encourager idea labeled above, with
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?![IMG_0323](https://user-images.githubusercontent.com/46539140/200203735-a004f330-6039-420a-a465-d7f4b2963936.jpg)
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
+Used a capacitive sensor to get the students' answers to the question which will show up on the teacher's client.
 
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
-
+https://drive.google.com/drive/folders/1Ec3HMiUmfUmgeU_o4BW3H1Z3N-G2gCn5?usp=sharing
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
 
